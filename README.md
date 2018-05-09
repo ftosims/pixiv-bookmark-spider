@@ -13,3 +13,4 @@ python ./new.py 就可以运行
 以及修改pixivclass.py中
 post_data的pixiv_id和password为你的用户名和密码呢qwq
 保存地址在imformation.py中,save_dir是保存地址
+目前还有不少bug…就是有些时候遇到某些标题就崩了……倒是不影响其他的
