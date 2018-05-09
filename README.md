@@ -12,3 +12,4 @@ python ./new.py 就可以运行
 运行前记得打开全局代理
 以及修改pixivclass.py中
 post_data的pixiv_id和password为你的用户名和密码呢qwq
+保存地址在imformation.py中,save_dir是保存地址
