@@ -1,5 +1,20 @@
 # python-bookmark-spider
 
+## v0.2
+What's new?
+1.多图链接已经可以爬取
+2.多图链接的图像会用默认命名后面加上'(1)'、'(2)'这样的名字进行命名
+3.为了防止每次收藏夹新增项目之后的重新爬，添加了图像是否相同的比较。
+4.pixivclass中的登陆信息已经修改到imformation里面了。
+
+修改imformation构造函数的前三条
+第一条是pixivid
+第二条是密码
+第三条是默认保存地址。
+Keep Moving~
+
+
+
 ## v0.1
 第一次写python,代码写的蛮难看的……
 
